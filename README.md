@@ -1,0 +1,8 @@
+# Docker Extension Pack
+
+Manage Docker Containers, Docker Images, Dockerfile and docker-compose files.
+
+| Extension | Status |
+| --------- | ------ |
+| [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer) | [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/formulahendry.docker-explorer.svg)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer) [![Installs](https://vsmarketplacebadge.apphb.com/installs/formulahendry.docker-explorer.svg)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/formulahendry.docker-explorer.svg)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer) |
+| [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) | [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/PeterJausovec.vscode-docker.svg)](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) [![Installs](https://vsmarketplacebadge.apphb.com/installs/PeterJausovec.vscode-docker.svg)](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/PeterJausovec.vscode-docker.svg)](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) |
