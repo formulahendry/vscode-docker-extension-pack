@@ -1,0 +1,34 @@
+{
+    "name": "docker-extension-pack",
+    "displayName": "Docker Extension Pack",
+    "description": "Manage Docker Containers, Docker Images, Dockerfile and docker-compose files.",
+    "version": "0.0.1",
+    "publisher": "formulahendry",
+    "icon": "images/logo.png",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "docker",
+        "explorer",
+        "dockerfile",
+        "image",
+        "container"
+    ],
+    "bugs": {
+        "url": "https://github.com/formulahendry/vscode-docker-extension-pack/issues",
+        "email": "formulahendry@gmail.com"
+    },
+    "homepage": "https://github.com/formulahendry/vscode-docker-extension-pack/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/formulahendry/vscode-docker-extension-pack.git"
+    },
+    "extensionDependencies": [
+        "formulahendry.docker-explorer",
+        "PeterJausovec.vscode-docker"
+    ]
+}
