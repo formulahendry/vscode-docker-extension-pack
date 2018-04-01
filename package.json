@@ -29,6 +29,7 @@
     },
     "extensionDependencies": [
         "formulahendry.docker-explorer",
-        "PeterJausovec.vscode-docker"
+        "PeterJausovec.vscode-docker",
+        "p1c2u.docker-compose"
     ]
 }
